@@ -1,6 +1,15 @@
 # Hackintosh EFI – ASUS PRIME B460M-A R2.0 + i5-10400 (UHD 630)
 
+[![Descargar EFI](https://img.shields.io/github/v/release/DruChill/Hackintosh-ASUS-B460M-A-i5-10400?label=Descargar%20EFI&color=brightgreen)](https://github.com/DruChill/Hackintosh-ASUS-B460M-A-i5-10400/releases/latest)
+![macOS](https://img.shields.io/badge/macOS-Sequoia_15.8.1-000000?logo=apple&logoColor=white)
+![OpenCore](https://img.shields.io/badge/OpenCore-1.0.9-1f6feb)
+![SMBIOS](https://img.shields.io/badge/SMBIOS-iMac20%2C1-555555)
+![iGPU](https://img.shields.io/badge/iGPU-UHD_630_%C2%B7_HDMI_2560%C3%971440-0071C5)
+![SIP](https://img.shields.io/badge/SIP-activado-2ea44f)
+
 EFI de OpenCore para macOS 15 Sequoia en un PC de escritorio Comet Lake usando solo la gráfica integrada.
+
+**Descarga:** el EFI listo en un `.zip` está en [Releases](https://github.com/DruChill/Hackintosh-ASUS-B460M-A-i5-10400/releases/latest).
 
 > ⚠️ Este EFI **no incluye números de serie**. Antes de usarlo tienes que generar tu propio SMBIOS (ver abajo).
 
